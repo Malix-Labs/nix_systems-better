@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 type: software
-title: "nix_systems-microarch-levels"
+title: "Nix: Systems Better"
 abstract: "Externally extensible flake systems for microarchitecture levels"
-repository-code: "https://github.com/Malix-Labs/nix_systems-microarch-levels"
+repository-code: "https://github.com/Malix-Labs/nix_systems-better"
 license: MIT
 authors:
   - alias: "Malix"

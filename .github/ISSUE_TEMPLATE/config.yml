@@ -2,7 +2,7 @@ blank_issues_enabled: true
 contact_links:
   - name: Development Help
     about: Help on the Development
-    url: https://github.com/Malix-Labs/nix_systems-microarch-levels/discussions
+    url: https://github.com/Malix-Labs/nix_systems-better/discussions
   - name: Usage Help
     about: Help on the Usage
-    url: https://github.com/Malix-Labs/nix_systems-microarch-levels/discussions
+    url: https://github.com/Malix-Labs/nix_systems-better/discussions
